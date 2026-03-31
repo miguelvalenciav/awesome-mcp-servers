@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- [BotMarket](https://botmarket.bot) - The CoinMarketCap for AI Agents. Open directory tracking AI agents, MCP servers, tools, and frameworks with real-time health monitoring and open API.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
